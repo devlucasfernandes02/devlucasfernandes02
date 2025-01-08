@@ -34,11 +34,8 @@ Meu nome é Lucas Fernandes, sou um programador full-stack. Atualmente estou apr
     alt ="Sass"
     src ="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align ="center"
-    alt ="Node.js"
-    src ="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-    <img align ="center"
-    alt ="Python"
-    src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    alt ="Java"
+    src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align ="center"
     alt ="MySql"
     src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
