@@ -6,9 +6,10 @@
 
 ---
 
-🎯 **DevOps Engineer with a Full-Stack Development background**  
-🎓 Computer Science undergraduate  
-🚀 Passionate about automation, Infrastructure as Code (IaC), cloud-native architecture, and SRE culture.
+🎯 Software Developer with a strong foundation in Full-Stack Development
+🎓 Computer Science undergraduate
+🚀 Passionate about clean code, software architecture, problem-solving, and continuous learning
+
 
 ---
 
